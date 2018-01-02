@@ -1,0 +1,12 @@
+html {
+    display: flex;
+    justify-content: center;
+}
+
+h1, p {
+    margin: 10px;
+}
+
+#defaultCanvas0 {
+    border: 2px dashed red;
+}
